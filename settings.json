@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "KINGFREESTAY",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "mazerfox3-pFZW.aternos.me",
